@@ -1,6 +1,8 @@
 # WPT
 Wave Peel Tracking algorithm applied to a wave basin
 
+![WPT_lab_img](https://github.com/mikeyt120/WPT/blob/main/WPT_lab_img.JPG)
+
 To run the WPT algorithm, download the entire WPT repository into a directory where you have access through Anaconda Distribution. Through Anaconda Distribution -> Jupyter Notebooks, open the WPT_lab.ipynb script. Once the script is open in a notebook, run the first cell to initialize variables and produce a rectification image example. Click on one of the images shown and press enter to finish running that cell. Then run the next cell to start the WPT algorithm. A few windows will appear which will visualise the WPT algorithm in action. Once the WPT algorithm has processed the whole video, run the next cell to post process the data to create WPT stats and figures. All these stats and figures will be saved in a results folder.
 
 If you need to train a new CNN model for your use of the WPT algorithm, use the WPT_lab_CNN_trainer.ipynb script. 
