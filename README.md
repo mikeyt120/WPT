@@ -9,4 +9,4 @@ If you need to train a new CNN model for your use of the WPT algorithm, use the 
 
 Tracking parameter settings and classification model settings for each test in the paper are described in "Algorithm Key Parameters for Each Test.docx" and "Classification_model_results.docx" (accompanied by "WPT_CNN_lab_best_results.xlsx").
 
-Note: The SM2p2_comp.mp4 video provided is a compressed version of the original test SM2.2 video, therefroe the results for SM2.2 in the paper may be very slightly different (but not by much).
+Note: The SM2p2_comp.mp4 video provided is a compressed version of the original test SM2.2 video, therefroe the results for SM2.2 in the paper may be very slightly different (but not by much). This video is made available courtesy of the Queensland Government Hydraulics Laboratory.
